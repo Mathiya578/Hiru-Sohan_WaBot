@@ -1,5 +1,5 @@
 <p align="center">
-<img src="pissukolama@pissukollah.jpg" alt="nz" width="350"/>
+<img src="Socialthumb.jpg" alt="nz" width="350"/>
 </p>
 
 ## PISSU-KOLAMA-PISSU-KOLLAH
